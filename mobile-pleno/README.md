@@ -13,9 +13,7 @@ Se você se identifica com os nossos valores e gosta trabalhar com desenvolvimen
 
 ## **Responsabilidades e atribuições**
   - Escrever código limpo, de fácil manutenção, utilizando as melhores práticas de desenvolvimento de software;
-
   - Apresentar melhorias nos sistemas existentes e garantir a qualidade nas entregas;
-
   - Ajudar e compartilhar sua experiência com os membros da equipe.
 
 ## **Requisitos e qualificações**
@@ -37,3 +35,14 @@ Se você se identifica com os nossos valores e gosta trabalhar com desenvolvimen
     - API rest
 
 Regime: PJ
+## **Processo seletivo Favo**
+
+O processo seletivo consiste nas seguintes etapas:
+  1. Cultura
+  2. Entrevista
+  3. Desafio técnico
+  4. Entrevista técnica
+
+Cada etapa é pré-requisito da etapa seguinte.
+# Como participar
+Para participar basta se inscrever em [Vaga mobile pleno](http://rh.favotecnologia.com.br/jobs/detail/mobile-pleno-6)

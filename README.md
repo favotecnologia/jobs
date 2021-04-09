@@ -14,10 +14,15 @@ Se você se identifica com os nossos valores e gosta trabalhar com desenvolvimen
 
 ## **Processo seletivo Favo**
 
-O processo seletivo consiste em três etapas:
-  1. Entrevista
-  2. Desafio técnico
-  3. Entrevista técnica
+O processo seletivo consiste nas seguintes etapas:
+  1. Cultura
+  2. Entrevista
+  3. Desafio técnico
+  4. Entrevista técnica
+
+Cada etapa é pré-requisito da etapa seguinte.
+# Como participar
+Para participar basta se inscrever em http://rh.favotecnologia.com.br/
 
 ## **Vagas abertas**
 
